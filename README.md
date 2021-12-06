@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
-**CSI-Imanol-Campos/CSI-Imanol-Campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+helouda, soy solo un chaval que le gusta ver series 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 estoy trabajando en la escuela 
+- 🌱 estoy aprendiendo materias 
+- 👯 me gustaria colaboral en cualquier cosa 
+- 🤔 busco ayudar a animar 
+- 💬 cuendo estoy modo 🧐puedo responder preguntas 
+- 📫 no sean hackers 
+- 😄 ... él porsupuesto 
+- ⚡ sabias que hay un mes que puede tener 28 o 29 días?
 -->
