@@ -7,12 +7,12 @@
 </div>
 
 ### Ingredientes
--**1 taza de hojaldre**☕
--**pasta de guayaba cortada en cuadritos**🍐
--**azúcar de confección**🧂
--**papel para hornear**🃏
--**un huevo batido**🍳
--**brocha de cocinar**🖌
+ - **1 taza de hojaldre**☕
+ - **pasta de guayaba cortada en cuadritos**🍐
+ - **azúcar de confección**🧂
+ - **papel para hornear**🃏
+ - **un huevo batido**🍳
+ - **brocha de cocinar**🖌
 >,< =v 
 #### pasos
 1. calienta el horno a 375 grados
